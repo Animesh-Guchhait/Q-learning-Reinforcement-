@@ -5,8 +5,7 @@ Consider driving a car through a maze, like those shown in the figures below. Yo
 
 
 
-![track-1](https://user-images.githubusercontent.com/82107572/154519823-97259d82-5621-4ebb-881a-38f834099889.png)
-![track-2](https://user-images.githubusercontent.com/82107572/154519896-954d4df2-da3f-472b-9a1e-c63ee3b683b8.png)
+![track-1](https://user-images.githubusercontent.com/82107572/154519823-97259d82-5621-4ebb-881a-38f834099889.png) & ![track-2](https://user-images.githubusercontent.com/82107572/154519896-954d4df2-da3f-472b-9a1e-c63ee3b683b8.png)
 
 At any point, the car position is one of the cells in the grid. The velocity of the car is a pair (u,v), indicating that the next move will shift its position by u cells in the horizontal direction and by v cells in the vertical direction. If u is negative, the car moves left, and if u is positive, the car moves right. Likewise, if v is negative, the car moves down, and if v is positive the car moves up.
 
