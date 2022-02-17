@@ -25,3 +25,12 @@ Compute an optimal policy from each starting state for the car.
 Experiment with different reward values for the final move and see how it affects the learning process.
 
 After you have finished computing the optimal policy, show a simulation of the trained car successfully reaching the finish line, avoiding obstacles.
+
+
+Link for track 1 , track 2 and track 3 :
+
+https://drive.google.com/file/d/1M25wzmJkG9X-nVwMHquNEKsilQNpExAs/view?usp=sharing
+
+https://drive.google.com/file/d/11DATIF3fB4KXPnqTx5iK4cL1RhZn5AeG/view?usp=sharing
+
+
