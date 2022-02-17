@@ -20,7 +20,7 @@ Hitting an obstacle is defined as follows. Suppose the car is currently at cell 
 
 Going off the grid sideways and going below the starting line are defined in the obvious way. .
 
-Compute an optimal policy from each starting state for the car. Use either an on-policy Monte Carlo approach or a TD(0) method (either SARSA or Q-learning).
+Compute an optimal policy from each starting state for the car.
 
 Experiment with different reward values for the final move and see how it affects the learning process.
 
