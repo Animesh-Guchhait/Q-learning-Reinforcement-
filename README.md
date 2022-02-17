@@ -3,7 +3,7 @@ Obstacle race
 
 Consider driving a car through a maze, like those shown in the figures below. You want to go as fast as possible, but not so fast as to run into an obstacle or veer off the grid.
 
-Solarized dark             |  Solarized Ocean
+Track 1            |  Track 2
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/82107572/154519823-97259d82-5621-4ebb-881a-38f834099889.png)  |  ![](https://user-images.githubusercontent.com/82107572/154519896-954d4df2-da3f-472b-9a1e-c63ee3b683b8.png)
 
